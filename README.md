@@ -15,14 +15,12 @@
  - TO-DO list <br>
  - Country Selector <br>
  - Promise generator <br>
- - <br>
- - <br>
+
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bolomasta&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="bolomasta" /></p>
-<br>
-<br>
-<br>
-<br>
+
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bolomasta&show_icons=true&theme=merko&locale=en" alt="bolomasta" /></p>
 
