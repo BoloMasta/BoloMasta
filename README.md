@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bolek</h1>
-<h3 align="center">A beginer frontend developer from Poland 🇵🇱</h3>
+<h1>Hi 👋, I'm Bolek</h1>
+<h3>A beginer frontend developer from Poland 🇵🇱</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
