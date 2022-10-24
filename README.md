@@ -12,9 +12,9 @@
 
 <h3 align="left">My projects:</h3>
  - 🌈 Color switcher <br>
- - TO-DO list <br>
- - Country Selector <br>
- - Promise generator <br>
+ - 📝 TO-DO list <br>
+ - 🏳️ Country Selector <br>
+ - ⏳ Promise generator <br>
 
 <br>
 <br>
