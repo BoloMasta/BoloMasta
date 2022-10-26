@@ -15,6 +15,7 @@
  - 📝 <a href="https://bolomasta.github.io/to-do-list/" target="_blank">TO-DO list </a><br>
  - 🏳️ <a href="https://bolomasta.github.io/goit-js-hw-10/" target="_blank"> Country Selector </a><br> 
  - ⏳ <a href="https://bolomasta.github.io/goit-js-hw-09/03-promises.html" target="_blank">Promise generator </a><br>
+ - 🧮 <a href="https://bolomasta.github.io/calculator/" target="_blank">Calculator </a><br>
 
 <br>
 <br>
