@@ -12,6 +12,7 @@
 
 <h3 align="left">My projects:</h3>
  - 🖼️ <a href="https://bolomasta.github.io/goit-js-hw-11/" target="_blank">Image search from Pixabay </a><br>
+ - ✂️ <a href="https://bolomasta.github.io/rock-paper-scissors/" target="_blank">Rock-paper-scissors game </a><br>
  - ☝️ <a href="https://bolomasta.github.io/pick-color-game/" target="_blank">RGB pick color game </a><br>
  - 📝 <a href="https://bolomasta.github.io/to-do-list/" target="_blank">TO-DO list </a><br>
  - 🏳️ <a href="https://bolomasta.github.io/goit-js-hw-10/" target="_blank">Country Selector </a><br> 
