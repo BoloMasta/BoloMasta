@@ -12,6 +12,7 @@
 
 <h3 align="left">My projects:</h3>
  - 🎴 <a href="https://bolomasta.github.io/memo-game/" target="_blank">MEMO game </a><br>
+ - ❌ <a href="https://bolomasta.github.io/Tic-Tac-Toe/" target="_blank">Tic-Tac-Toe</a> <br>
  - ⌨️ <a href="https://bolomasta.github.io/typing-game/" target="_blank">Typing game </a><br>
  - 🖼️ <a href="https://bolomasta.github.io/goit-js-hw-11/" target="_blank">Image search from Pixabay </a><br>
  - ✂️ <a href="https://bolomasta.github.io/rock-paper-scissors/" target="_blank">Rock-paper-scissors game </a><br>
