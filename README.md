@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bolek</h1>
 <h3 align="center">A beginer frontend developer from Poland 🇵🇱</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **boleslawadamiec@gmail.com**
 
